@@ -11,7 +11,7 @@ Email: {wd35@, kam@}njit.edu
 
 The list of files includes:
 
-- [Supplement file, Part A](Supplemental_file_A.pdf) - Design of a 3-LD system example (Section III-B)   [(latex files)](Supplemental_file_A.zip)
+- [Supplement file, Part A](Supplemental_file_A.pdf) - Design of a 3-LD system example (Section III-B)   [(latex files)](Supplemental\ file\ A.zip)
 
 - [Supplement file, Part B](Supplemental_file_B.pdf) - Numerical examples for loss of synchronization between the DFC and the group of LDs (Section IV-B)   [(latex files)](Supplemental file B.zip)
 
